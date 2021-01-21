@@ -1,0 +1,21 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    int a;
+    int b;
+    int c;
+
+
+    a = 5;
+    b = 2;
+    c = 1;
+
+    printf(" \t a = %d",a);
+    printf(" a + b = %d", a + b);
+    printf("\n a - c = %d", a - c);
+    printf(" \n \t a * b = %d", a * b);
+    printf(" b / c = %d", b/c);
+    return 0;
+}
